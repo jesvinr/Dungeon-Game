@@ -1,5 +1,6 @@
 
-                                                              **Dungeon Game**
+**Dungeon Game**
+
 **Description**
 This Java program, named Dungeon game, is a simple text-based dungeon adventure game. 
 The game involves an adventurer, a monster, gold, pits, and a trigger in a nxn dungeon. 
