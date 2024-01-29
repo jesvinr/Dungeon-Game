@@ -37,23 +37,38 @@ The _givingInput()_ method initializes the dungeon layout based on the user-prov
 
 **Example Input:**
 
-Enter adventurer location in dungeon...
+Enter adventurer location in dungeon... 
+
 0 0
+
 Enter Monster location in dungeon...
-3 3
+
+3 3 
+
 Enter Gold location in dungeon...
+
 2 2
+
 Enter number of pits..
+
 2
+
 1 1
-3 1
+
+2 1
+
 Enter trigger location:
+
 1 3
+
 Example Output
 
 A000
-0000
-00G0
+
+0P00
+
+0PG0
+
 0M0T
 
 No possible solution
