@@ -71,7 +71,7 @@ A000
 
 0M0T
 
-No possible solution
+No possible solution. 
 Monster will catch you and kill you!!!
 
 **Notes**
