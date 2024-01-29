@@ -2,11 +2,13 @@
 **Dungeon Game**
 
 **Description**
+
 This Java program, named Dungeon game, is a simple text-based dungeon adventure game. 
 The game involves an adventurer, a monster, gold, pits, and a trigger in a nxn dungeon. 
 The objective is to find the minimum steps required for the adventurer to reach the gold while avoiding the monster and pits.
 
 **How to Play**
+
 _Adventurer Location:_ Enter the initial location of the adventurer in the dungeon when prompted.
 
 _Monster Location:_ Specify the initial location of the monster in the dungeon.
@@ -24,6 +26,7 @@ The program will then check if the monster can reach the adventurer. If so, it w
 Otherwise, the program will calculate and display the minimum steps required for the adventurer to reach the gold.
 
 **Code Structure**
+
 The code uses a recursive approach (_findStep()_ method) to explore possible paths in the dungeon until the adventurer reaches the gold or trigger.
 
 The _isValidMove()_ method checks if a move is within the bounds of the dungeon and is a valid open path.
@@ -57,11 +60,15 @@ No possible solution
 Monster will catch you and kill you!!!
 
 **Notes**
+
 The game may have multiple valid solutions, and the minimum steps displayed depend on the order in which paths are explored.
 
 The program assumes valid user inputs and does not perform extensive error checking.
 
 **Dependencies**
+
 The program uses the Scanner class for user input.
+
 **Author**
+
 This program was written by Jesvin R.
